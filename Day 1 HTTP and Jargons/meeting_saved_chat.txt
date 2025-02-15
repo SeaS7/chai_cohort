@@ -1,0 +1,136 @@
+20:01:13 From Piyush Garg to Everyone:
+	https://clockify.me/
+20:02:55 From Piyush Garg to Everyone:
+	https://www.opal.so/
+20:03:42 From Piyush Garg to Everyone:
+	https://wakatime.com/
+20:06:18 From Piyush Garg to Everyone:
+	Gym Jaao…..
+20:07:32 From Piyush Garg to Everyone:
+	Bhavnao mai behind gye the right?
+20:14:14 From Piyush Garg to Everyone:
+	Jargon is also a Jargon 😂
+20:21:05 From Piyush Garg to Everyone:
+	Hypertext is text which contains links to other texts.
+20:22:09 From Piyush Garg to Everyone:
+	If you want to know music, you need to know silence😄
+20:25:15 From Piyush Garg to Everyone:
+	In HTTP, stateless means that every time you talk to a website, it doesn’t remember what you talked about before. Each time is like starting fresh.
+20:26:31 From Piyush Garg to Everyone:
+	Jab TV remote har baar wahi channel default se shuru karta hai aur yaad nahi rakhta tum pichli baar kya dekh rahe the, voh stateless hai.
+20:31:11 From Piyush Garg to Everyone:
+	Jaise tum mummy ke paas apni favourite chocolate ka wrapper le jaate ho taaki mummy yaad rakhe ki tumhe kaunsi chocolate chahiye.
+20:34:18 From Piyush Garg to Everyone:
+	Khatarnaak Model
+20:36:29 From Piyush Garg to Everyone:
+	controversy jargon ka meaning sabko pta hoga 😂
+20:38:52 From Piyush Garg to Everyone:
+	Socho tum apne papa ko bolte ho, "Papa, mujhe ek chocolate laa do!"
+	Yeh bolna jaise ek GET request hai.
+20:41:16 From Piyush Garg to Everyone:
+	403 Forbidden: "Papa ne kaha, tumhe chocolate nahi milegi, aaj diet pe ho!"
+20:45:06 From Piyush Garg to Everyone:
+	200 OK: "Yay! chocolate mil gayi!"
+20:46:55 From Piyush Garg to Everyone:
+	Http (Protocol) - V1, V2, V3 is versions of HTTP - Protocol ke version hai. http/2 - http ka version 2
+20:48:28 From Piyush Garg to Everyone:
+	Omkar: http 1 be like tera bhai sambla lega
+20:49:56 From Piyush Garg to Everyone:
+	Multiplexing: Multiple requests and responses can be sent over a single connection
+20:50:09 From Piyush Garg to Everyone:
+	Ab tum ek hi connection se multiple cheezein ek saath maang sakte ho, jaise chocolate, toy, aur game, bina har baar alag se request bheje.
+20:51:11 From Anirudh Jwala to Everyone:
+	Showing close to 14 million customer transactions on single page 🙂
+20:53:45 From Piyush Garg to Everyone:
+	Socho tum apne dost ko chocolate bhejna chahte ho, lekin tum dono ko pata hona chahiye ki chocolate tumhare doston tak safe aur sahi tareeke se pahuche. Tum dono ek secret code decide karte ho, jaise "only my friend can open this chocolate box"!
+	
+	HTTPS mein yeh "secret code" ek SSL certificate hai.
+20:55:53 From Piyush Garg to Everyone:
+	AWS - Cloud Service by Amazon
+20:57:06 From Muhammad Huzaifa to Hosts and panelists:
+	SSL thora or explain kr dn gy?
+20:57:38 From Piyush Garg to Everyone:
+	Ghar ke anadar sab safe hai - Khatra toh bhar hota hai
+20:58:17 From Muhammad Huzaifa to Hosts and panelists:
+	SSL? please
+20:58:53 From Piyush Garg to Everyone:
+	HTTPS ka matlab hai HyperText Transfer Protocol Secure.
+20:59:51 From Piyush Garg to Everyone:
+	TLS (Transport Layer Security) ek security protocol hai jo tumhara secret message (ya chocolate recipe) safe aur secure rakhne mein madad karta hai.
+21:00:05 From Piyush Garg to Everyone:
+	Jab tum HTTPS ka use karte ho, toh behind the scenes TLS kaam kar raha hota hai, jo tumhare data ko encrypt karta hai taaki koi aur tumhara message padh na sake.
+21:01:49 From Piyush Garg to Everyone:
+	HTTPS tumhara safe route hai aur TLS wo lock hai jo tumhare data ko secure rakhta hai jab tum us route se travel karte ho! 😄
+21:02:22 From Piyush Garg to Everyone:
+	Chrome 🤡 is User Agent
+21:03:13 From Muhammad Huzaifa to Hosts and panelists:
+	TCP and SSL are same??
+21:04:12 From Piyush Garg to Everyone:
+	Same goes for Paisa
+21:04:36 From Piyush Garg to Everyone:
+	Depends sir 😂
+21:05:20 From Piyush Garg to Everyone:
+	XLS
+21:05:24 From Piyush Garg to Everyone:
+	PPTX
+21:05:28 From Piyush Garg to Everyone:
+	XLSX
+21:07:14 From Piyush Garg to Everyone:
+	URL ek address hai jo tumhe internet ki duniya mein kisi specific jagah tak le jaata hai!
+21:07:16 From Muhammad Huzaifa to Hosts and panelists:
+	We want to look cool😎
+21:09:15 From Piyush Garg to Everyone:
+	Bare Metal 🤘
+21:09:45 From Piyush Garg to Everyone:
+	Matlab, DNS tumhe website ka phone number bataane wala phonebook hai, taaki tum internet par apni desired website tak pahuch sako! 😄
+21:10:26 From Piyush Garg to Everyone:
+	DNS ek phonebook hai jo domain names ko IP addresses se match karta hai.
+21:10:48 From Piyush Garg to Everyone:
+	Socho tumhare paas ek birthday card hai, aur tum us card ke upar likhte ho, "To: [Friend's Name], From: [Your Name]" aur baaki details jaise date, message, etc.
+21:10:55 From Piyush Garg to Everyone:
+	Matlab, HTTP Headers jaise ek birthday card ke details hote hain, jo request ya response ke saath extra information bhejte hain! 😄
+21:11:16 From Piyush Garg to Everyone:
+	Payload tumhara actual gift hai, jo tum server ke saath share karte ho! 😄
+21:12:23 From Muhammad Huzaifa to Hosts and panelists:
+	What is the difference btw Cache and Cookies?
+21:12:30 From Piyush Garg to Everyone:
+	🤑 Cashhh
+21:14:04 From Muhammad Huzaifa to Hosts and panelists:
+	What is the difference btw Cache and Cookies?
+21:14:59 From Piyush Garg to Everyone:
+	Data idhar se udhar
+21:15:08 From Piyush Garg to Everyone:
+	And udhar se idhar bhi
+21:16:49 From Muhammad Huzaifa to Hosts and panelists:
+	SMTP
+21:19:42 From Piyush Garg to Everyone:
+	402
+21:24:54 From Akash Kadlag to Everyone:
+	http 1 => http 2 =>  http 3
+	
+	ssl => tls 1.0 => tls 1.2 => tls 1.3 
+	
+	
+	http + tls => https
+21:25:25 From Akash Kadlag to Everyone:
+	Although SSL was replaced by an updated protocol called TLS (Transport Layer Security) some time ago, "SSL" is still a commonly used term for this technology.
+21:26:32 From Piyush Garg to Everyone:
+	Hacking Hacking……..
+21:28:25 From Piyush Garg to Everyone:
+	VERB
+21:28:33 From Piyush Garg to Everyone:
+	https
+21:28:38 From Piyush Garg to Everyone:
+	304
+21:28:44 From Piyush Garg to Everyone:
+	Server ka address
+21:29:14 From Muhammad Huzaifa to Hosts and panelists:
+	DNS
+21:29:36 From Akash Kadlag to Everyone:
+	2^32
+21:31:29 From Piyush Garg to Everyone:
+	Image Response
+21:35:24 From Muhammad Huzaifa to Hosts and panelists:
+	Honney
+21:41:01 From Akash Kadlag to Everyone:
+	jargons ==> fancy words
